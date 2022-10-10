@@ -1,5 +1,5 @@
 {
-  "name": "@ocrv/vue-tailwind-pagination",
+  "name": "@emperorjm/vue-tailwind-pagination",
   "version": "0.0.4",
   "description": "Vue Tailwind Pagination",
   "files": [
@@ -46,12 +46,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/OCRVblockchain/vue-tailwind-pagination"
+    "url": "https://github.com/emperorjm/vue-tailwind-pagination"
   },
   "author": "Denis Kozlov <denis.kozlov@ocrv.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OCRVblockchain/vue-tailwind-pagination/issues"
+    "url": "https://github.com/emperorjm/vue-tailwind-pagination/issues"
   },
-  "homepage": "https://github.com/OCRVblockchain/vue-tailwind-pagination#readme"
+  "homepage": "https://github.com/emperorjm/vue-tailwind-pagination#readme"
 }
